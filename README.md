@@ -1,4 +1,4 @@
-Hi, I’m @mostafaelomari, a husband, father, and avid learner. I’m interested in Web Development and Web Design. I’m currently practicing HTML, CSS, JavaScript, and various Front-End Libraries. I’m looking to collaborate on beginner-friendly projects to improve and be of use to others!
+Hi, I’m @mostafaelomari, a husband, father, and avid learner. I’m interested in Web Development and Design. I’m currently practicing HTML, CSS, JavaScript, and various Front-End Libraries. I’m looking to collaborate on beginner-friendly projects to improve and be of use to others!
 
 <!---
 mostafaelomari/mostafaelomari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
